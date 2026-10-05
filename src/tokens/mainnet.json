@@ -631,4 +631,12 @@
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/QuickSwap/quickswap-default-token-list/main/assets/HANDL.webp"
   }
+  {
+    "name": "KARMA",
+    "address": "0x52971D61ED894dB6406A452B8A015E554BF58bAf",
+    "symbol": "KARMA",
+    "decimals": 18,
+    "chainID": 137,
+    "logoURI": "https://raw.githubusercontent.com/FelixDark1521/quickswap-default-token-list/main/assets/0x52971D61ED894dB6406A452B8A015E554BF58bAf.webp"
+  }
 ]
